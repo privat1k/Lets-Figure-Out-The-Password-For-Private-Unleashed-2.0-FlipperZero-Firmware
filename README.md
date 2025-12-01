@@ -206,3 +206,15 @@ all details shown: key, fix, hop, etc.). Then I can calculate all data for Sub-G
 | HAY-21 | KingGates Stylo 4K |
 | Hollarm | Legrand |
 | Hormann HSM | Linear |
+
+![001](https://github.com/user-attachments/assets/5989e3be-62cc-4404-927f-a6f2669faf47)
+
+![002](https://github.com/user-attachments/assets/d13ca61c-b9b8-4f2d-ba6d-f7eea8fa5022)
+
+![003](https://github.com/user-attachments/assets/d16a721e-6916-4760-a965-42fbdf0f7292)
+
+![004](https://github.com/user-attachments/assets/33157035-f175-4992-8efb-c6d3dfbfe2bc)
+
+
+
+
